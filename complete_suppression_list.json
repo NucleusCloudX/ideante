@@ -1,5 +1,120 @@
 [
 {
+  "EmailAddress": "a2ghdhiphale@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:53.328000+00:00"
+}
+{
+  "EmailAddress": "tamanna-028@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:49.169000+00:00"
+}
+{
+  "EmailAddress": "saligram.g@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:59.545000+00:00"
+}
+{
+  "EmailAddress": "stish.b@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:19.009000+00:00"
+}
+{
+  "EmailAddress": "sbhoknal@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:18.234000+00:00"
+}
+{
+  "EmailAddress": "mayurmore86299@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:24.255000+00:00"
+}
+{
+  "EmailAddress": "amitjagtap71@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:21.806000+00:00"
+}
+{
+  "EmailAddress": "jnayak948@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:32.564000+00:00"
+}
+{
+  "EmailAddress": "dipalinarsinge@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:39.710000+00:00"
+}
+{
+  "EmailAddress": "padmaka2929@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:31.425000+00:00"
+}
+{
+  "EmailAddress": "felix_rod@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:39.464000+00:00"
+}
+{
+  "EmailAddress": "talwarkemp123@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:49.223000+00:00"
+}
+{
+  "EmailAddress": "prajwalkakade1999@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:04.927000+00:00"
+}
+{
+  "EmailAddress": "sachinchoudhri1186@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:09.874000+00:00"
+}
+{
+  "EmailAddress": "amarraval1988@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:24.936000+00:00"
+}
+{
+  "EmailAddress": "sangitadhokare279@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:42.029000+00:00"
+}
+{
+  "EmailAddress": "sushantsalokhe1993@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:40:09.894000+00:00"
+}
+{
+  "EmailAddress": "ravisavant991@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:05.708000+00:00"
+}
+{
+  "EmailAddress": "rajendrabhrndare19886@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:29.697000+00:00"
+}
+{
+  "EmailAddress": "raisfaroooq1@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:31.976000+00:00"
+}
+{
+  "EmailAddress": "ajayhegade76@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:39.240000+00:00"
+}
+{
+  "EmailAddress": "willamdsouza001@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:34.093000+00:00"
+}
+{
+  "EmailAddress": "mehtabansarima469@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:20.984000+00:00"
+}
+{
   "EmailAddress": "garimabiyal@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:42:15.613000+00:00"
@@ -15,26 +130,6 @@
   "LastUpdateTime": "2024-12-09T19:35:26.564000+00:00"
 }
 {
-  "EmailAddress": "priscllaanant@yahoo.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:47.181000+00:00"
-}
-{
-  "EmailAddress": "pravin.gawari.7291@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:51.812000+00:00"
-}
-{
-  "EmailAddress": "yogeshwar13@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:28.073000+00:00"
-}
-{
-  "EmailAddress": "pvjagtap82@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:41.102000+00:00"
-}
-{
   "EmailAddress": "vikramsanap10164@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:26:09.239000+00:00"
@@ -45,174 +140,9 @@
   "LastUpdateTime": "2024-12-09T19:37:54.993000+00:00"
 }
 {
-  "EmailAddress": "prabhakar.navale@rediffmail.com",
+  "EmailAddress": "yogeshwar13@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:10.236000+00:00"
-}
-{
-  "EmailAddress": "raisfaroooq1@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:31.976000+00:00"
-}
-{
-  "EmailAddress": "ajayhegade76@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:39.240000+00:00"
-}
-{
-  "EmailAddress": "sahilsaurav@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:59.659000+00:00"
-}
-{
-  "EmailAddress": "rajendrabhrndare19886@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:29.697000+00:00"
-}
-{
-  "EmailAddress": "willamdsouza001@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:34.093000+00:00"
-}
-{
-  "EmailAddress": "mehtabansarima469@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:20.984000+00:00"
-}
-{
-  "EmailAddress": "sachinchoudhri1186@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:09.874000+00:00"
-}
-{
-  "EmailAddress": "sushantsalokhe1993@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:40:09.894000+00:00"
-}
-{
-  "EmailAddress": "ravisavant991@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:05.708000+00:00"
-}
-{
-  "EmailAddress": "amitjagtap71@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:21.806000+00:00"
-}
-{
-  "EmailAddress": "pratiksworla2@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:53.385000+00:00"
-}
-{
-  "EmailAddress": "sangitadhokare279@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:42.029000+00:00"
-}
-{
-  "EmailAddress": "othuran@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:32.047000+00:00"
-}
-{
-  "EmailAddress": "khillarenarendra30@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:20.628000+00:00"
-}
-{
-  "EmailAddress": "jnayak948@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:32.564000+00:00"
-}
-{
-  "EmailAddress": "shaharikhshaikh214@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:10.901000+00:00"
-}
-{
-  "EmailAddress": "rutikbabanmohite@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:16.586000+00:00"
-}
-{
-  "EmailAddress": "prajwalkakade1999@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:04.927000+00:00"
-}
-{
-  "EmailAddress": "saligram.g@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:59.545000+00:00"
-}
-{
-  "EmailAddress": "a2ghdhiphale@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:53.328000+00:00"
-}
-{
-  "EmailAddress": "tamanna-028@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:49.169000+00:00"
-}
-{
-  "EmailAddress": "sbhoknal@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:18.234000+00:00"
-}
-{
-  "EmailAddress": "mayurmore86299@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:24.255000+00:00"
-}
-{
-  "EmailAddress": "stish.b@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:19.009000+00:00"
-}
-{
-  "EmailAddress": "mustafa_maimoon786@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:06.268000+00:00"
-}
-{
-  "EmailAddress": "apaanachinake01@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:18.500000+00:00"
-}
-{
-  "EmailAddress": "patil.16185514@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:23.620000+00:00"
-}
-{
-  "EmailAddress": "amarraval1988@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:24.936000+00:00"
-}
-{
-  "EmailAddress": "pagambar1986@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:33.164000+00:00"
-}
-{
-  "EmailAddress": "kanifnathenter.financedept@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:31.883000+00:00"
-}
-{
-  "EmailAddress": "naveen.ko9@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:58.250000+00:00"
-}
-{
-  "EmailAddress": "anurathlauate06@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:56.398000+00:00"
-}
-{
-  "EmailAddress": "dipalinarsinge@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:39.710000+00:00"
+  "LastUpdateTime": "2024-12-09T18:58:28.073000+00:00"
 }
 {
   "EmailAddress": "vitthal.pawar87@gmail.com",
@@ -220,19 +150,19 @@
   "LastUpdateTime": "2024-12-09T18:58:40.447000+00:00"
 }
 {
-  "EmailAddress": "felix_rod@gmail.com",
+  "EmailAddress": "naveen.ko9@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:39.464000+00:00"
+  "LastUpdateTime": "2024-12-09T19:36:58.250000+00:00"
 }
 {
-  "EmailAddress": "talwarkemp123@gmail.com",
+  "EmailAddress": "pravin.gawari.7291@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:49.223000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:51.812000+00:00"
 }
 {
-  "EmailAddress": "birupakshayasatapathy90@gmail.com",
+  "EmailAddress": "shaharikhshaikh214@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:16.400000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:10.901000+00:00"
 }
 {
   "EmailAddress": "rahidasshelar71@gmail.com",
@@ -240,185 +170,95 @@
   "LastUpdateTime": "2024-12-09T19:35:37.959000+00:00"
 }
 {
-  "EmailAddress": "padmaka2929@gmail.com",
+  "EmailAddress": "priscllaanant@yahoo.in",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:31.425000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:47.181000+00:00"
+}
+{
+  "EmailAddress": "khillarenarendra30@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:20.628000+00:00"
 }
 {
   "EmailAddress": "mithunwankhade.58@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:37:17.999000+00:00"
 }
+{
+  "EmailAddress": "birupakshayasatapathy90@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:16.400000+00:00"
+}
+{
+  "EmailAddress": "rutikbabanmohite@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:16.586000+00:00"
+}
+{
+  "EmailAddress": "pratiksworla2@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:53.385000+00:00"
+}
+{
+  "EmailAddress": "patil.16185514@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:23.620000+00:00"
+}
+{
+  "EmailAddress": "othuran@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:32.047000+00:00"
+}
+{
+  "EmailAddress": "anurathlauate06@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:56.398000+00:00"
+}
+{
+  "EmailAddress": "kanifnathenter.financedept@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:31.883000+00:00"
+}
+{
+  "EmailAddress": "prabhakar.navale@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:10.236000+00:00"
+}
+{
+  "EmailAddress": "pagambar1986@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:33.164000+00:00"
+}
+{
+  "EmailAddress": "apaanachinake01@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:18.500000+00:00"
+}
+{
+  "EmailAddress": "pvjagtap82@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:41.102000+00:00"
+}
+{
+  "EmailAddress": "sahilsaurav@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:59.659000+00:00"
+}
+{
+  "EmailAddress": "mustafa_maimoon786@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:06.268000+00:00"
+}
 ,
 {
-  "EmailAddress": "bhimaromore352@gmail.com",
+  "EmailAddress": "kishor_padm@rediffmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:19.039000+00:00"
+  "LastUpdateTime": "2024-12-09T19:38:12.805000+00:00"
 }
 {
-  "EmailAddress": "kerabayadhav35@gmail.com",
+  "EmailAddress": "abiodzinf@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:25.002000+00:00"
-}
-{
-  "EmailAddress": "abarwal.anu29@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:54.006000+00:00"
-}
-{
-  "EmailAddress": "subhash.2p31@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:18.893000+00:00"
-}
-{
-  "EmailAddress": "shaileshjain790@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:07.750000+00:00"
-}
-{
-  "EmailAddress": "yurajn1@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:26.428000+00:00"
-}
-{
-  "EmailAddress": "amolkjoshi@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:15.373000+00:00"
-}
-{
-  "EmailAddress": "ashoknamdvossk@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:45.234000+00:00"
-}
-{
-  "EmailAddress": "praveenbandekar2608@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:52.615000+00:00"
-}
-{
-  "EmailAddress": "swati_more@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:40:11.682000+00:00"
-}
-{
-  "EmailAddress": "thakokokare@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:43.549000+00:00"
-}
-{
-  "EmailAddress": "sb3575456@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:17.141000+00:00"
-}
-{
-  "EmailAddress": "dayasagavjoarwall@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:54.756000+00:00"
-}
-{
-  "EmailAddress": "amoldurage3112@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:17.051000+00:00"
-}
-{
-  "EmailAddress": "48273557@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:54.539000+00:00"
-}
-{
-  "EmailAddress": "yvenkatasubbaiah96@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:25.592000+00:00"
-}
-{
-  "EmailAddress": "santosh_13@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:32.237000+00:00"
-}
-{
-  "EmailAddress": "bhagadeshubham007@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:24.207000+00:00"
-}
-{
-  "EmailAddress": "kambedare@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:27.737000+00:00"
-}
-{
-  "EmailAddress": "amarkushwha0504@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:25.267000+00:00"
-}
-{
-  "EmailAddress": "rgaonkar389@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:02.721000+00:00"
-}
-{
-  "EmailAddress": "rushikesvairai1212@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:16.854000+00:00"
-}
-{
-  "EmailAddress": "aniltiwane1@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:03.286000+00:00"
-}
-{
-  "EmailAddress": "bheemail1984are@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:19.316000+00:00"
-}
-{
-  "EmailAddress": "7222pratameshmane@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:02.309000+00:00"
-}
-{
-  "EmailAddress": "immarimuthu1504@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:50.916000+00:00"
-}
-{
-  "EmailAddress": "ashok_maddy20@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:49.253000+00:00"
-}
-{
-  "EmailAddress": "vibhadorage90@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:20.493000+00:00"
-}
-{
-  "EmailAddress": "kiranhudge2010@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:18.553000+00:00"
-}
-{
-  "EmailAddress": "akshaya.mad1190@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:30.606000+00:00"
-}
-{
-  "EmailAddress": "santoshaaglave04@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:31.633000+00:00"
-}
-{
-  "EmailAddress": "dvgawade1978@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:32.024000+00:00"
-}
-{
-  "EmailAddress": "xksp@tcixps.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:43.256000+00:00"
-}
-{
-  "EmailAddress": "ansarisarfaraz2913@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:59.635000+00:00"
+  "LastUpdateTime": "2024-12-09T19:44:44.897000+00:00"
 }
 {
   "EmailAddress": "abhijetkale322@gmail.com",
@@ -431,44 +271,109 @@
   "LastUpdateTime": "2024-12-09T18:58:37.811000+00:00"
 }
 {
-  "EmailAddress": "rameshkk11@gmail.com",
+  "EmailAddress": "ansarisarfaraz2913@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:18.695000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:59.635000+00:00"
 }
 {
-  "EmailAddress": "kishor_padm@rediffmail.com",
+  "EmailAddress": "xksp@tcixps.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:12.805000+00:00"
+  "LastUpdateTime": "2024-12-09T18:58:43.256000+00:00"
 }
 {
-  "EmailAddress": "aankitchaydd@gmail.com",
+  "EmailAddress": "santosh_13@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:52.453000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:32.237000+00:00"
 }
 {
-  "EmailAddress": "abiodzinf@gmail.com",
+  "EmailAddress": "rgaonkar389@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:44.897000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:02.721000+00:00"
 }
 {
-  "EmailAddress": "jitugaikwd7070@gmail.com",
+  "EmailAddress": "ashoknamdvossk@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:33.684000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:45.234000+00:00"
 }
 {
-  "EmailAddress": "balu12@gmail.com",
+  "EmailAddress": "amarkushwha0504@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:28.168000+00:00"
+  "LastUpdateTime": "2024-12-09T19:44:25.267000+00:00"
 }
 {
-  "EmailAddress": "h2oagonda@gmail.com",
+  "EmailAddress": "yvenkatasubbaiah96@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:02.579000+00:00"
+  "LastUpdateTime": "2024-12-09T18:58:25.592000+00:00"
 }
 {
-  "EmailAddress": "vabhavlakare@yahoo.com",
+  "EmailAddress": "bhagadeshubham007@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:29.493000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:24.207000+00:00"
+}
+{
+  "EmailAddress": "amoldurage3112@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:17.051000+00:00"
+}
+{
+  "EmailAddress": "aniltiwane1@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:03.286000+00:00"
+}
+{
+  "EmailAddress": "48273557@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:54.539000+00:00"
+}
+{
+  "EmailAddress": "praveenbandekar2608@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:52.615000+00:00"
+}
+{
+  "EmailAddress": "akshaya.mad1190@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:30.606000+00:00"
+}
+{
+  "EmailAddress": "sb3575456@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:17.141000+00:00"
+}
+{
+  "EmailAddress": "kiranhudge2010@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:18.553000+00:00"
+}
+{
+  "EmailAddress": "santoshaaglave04@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:31.633000+00:00"
+}
+{
+  "EmailAddress": "rushikesvairai1212@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:16.854000+00:00"
+}
+{
+  "EmailAddress": "vibhadorage90@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:20.493000+00:00"
+}
+{
+  "EmailAddress": "7222pratameshmane@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:02.309000+00:00"
+}
+{
+  "EmailAddress": "kerabayadhav35@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:25.002000+00:00"
+}
+{
+  "EmailAddress": "kambedare@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:27.737000+00:00"
 }
 {
   "EmailAddress": "khedkkary355@gmail.com",
@@ -476,14 +381,94 @@
   "LastUpdateTime": "2024-12-09T19:38:20.898000+00:00"
 }
 {
-  "EmailAddress": "santosh.gaisamudre@rediffmail.com",
+  "EmailAddress": "abarwal.anu29@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:33.488000+00:00"
+  "LastUpdateTime": "2024-12-09T19:44:54.006000+00:00"
+}
+{
+  "EmailAddress": "shaileshjain790@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:07.750000+00:00"
+}
+{
+  "EmailAddress": "bhimaromore352@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:19.039000+00:00"
+}
+{
+  "EmailAddress": "yurajn1@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:26.428000+00:00"
+}
+{
+  "EmailAddress": "bheemail1984are@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:19.316000+00:00"
+}
+{
+  "EmailAddress": "immarimuthu1504@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:50.916000+00:00"
+}
+{
+  "EmailAddress": "ashok_maddy20@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:49.253000+00:00"
+}
+{
+  "EmailAddress": "dayasagavjoarwall@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:54.756000+00:00"
+}
+{
+  "EmailAddress": "amolkjoshi@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:15.373000+00:00"
+}
+{
+  "EmailAddress": "subhash.2p31@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:18.893000+00:00"
 }
 {
   "EmailAddress": "anjumkhan.10331@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-10T07:38:17.121000+00:00"
+}
+{
+  "EmailAddress": "tatya.dongre01@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:46.817000+00:00"
+}
+{
+  "EmailAddress": "thakokokare@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:43.549000+00:00"
+}
+{
+  "EmailAddress": "rameshkk11@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:18.695000+00:00"
+}
+{
+  "EmailAddress": "swati_more@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:40:11.682000+00:00"
+}
+{
+  "EmailAddress": "aankitchaydd@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:52.453000+00:00"
+}
+{
+  "EmailAddress": "vabhavlakare@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:29.493000+00:00"
+}
+{
+  "EmailAddress": "jitugaikwd7070@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:33.684000+00:00"
 }
 {
   "EmailAddress": "dahiyaa.sab@gmail.com",
@@ -496,75 +481,45 @@
   "LastUpdateTime": "2024-12-09T19:43:57.351000+00:00"
 }
 {
-  "EmailAddress": "tatya.dongre01@gmail.com",
+  "EmailAddress": "h2oagonda@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:46.817000+00:00"
+  "LastUpdateTime": "2024-12-09T19:42:02.579000+00:00"
+}
+{
+  "EmailAddress": "dvgawade1978@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:32.024000+00:00"
+}
+{
+  "EmailAddress": "santosh.gaisamudre@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:33.488000+00:00"
+}
+{
+  "EmailAddress": "balu12@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:28.168000+00:00"
 }
 ,
 {
-  "EmailAddress": "kirannkambale1110@gmail.com",
+  "EmailAddress": "nisar.siraz.shaikh@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:14.641000+00:00"
+  "LastUpdateTime": "2024-12-09T19:36:43.418000+00:00"
 }
 {
-  "EmailAddress": "kiranzarad177@gmail.com",
+  "EmailAddress": "sanjay.ragate@hdfcbank.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:13.723000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:39.718000+00:00"
 }
 {
-  "EmailAddress": "nishartun-13654@yahoo.co.in",
+  "EmailAddress": "nuttyvikadftmf@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:42.970000+00:00"
+  "LastUpdateTime": "2024-12-09T19:36:36.158000+00:00"
 }
 {
-  "EmailAddress": "mahajansupriya346@yahoo.com",
+  "EmailAddress": "audhut.nimbargi@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:51.089000+00:00"
-}
-{
-  "EmailAddress": "bapu.malavadkar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:27.215000+00:00"
-}
-{
-  "EmailAddress": "btrathod1986@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:12.427000+00:00"
-}
-{
-  "EmailAddress": "telorgurukrupa1988@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:43.120000+00:00"
-}
-{
-  "EmailAddress": "unitedcontractionspune@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:29.016000+00:00"
-}
-{
-  "EmailAddress": "rajuvikram@hotmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:30.773000+00:00"
-}
-{
-  "EmailAddress": "chantansngh50@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:07.561000+00:00"
-}
-{
-  "EmailAddress": "rameshbhapkar0707@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:19.152000+00:00"
-}
-{
-  "EmailAddress": "yashwantjogadand0804@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:40:28.011000+00:00"
-}
-{
-  "EmailAddress": "kiran.nagare1984@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:18.218000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:39.325000+00:00"
 }
 {
   "EmailAddress": "prathmesh.bolbhat@byjus.com",
@@ -577,39 +532,9 @@
   "LastUpdateTime": "2024-12-09T19:38:06.789000+00:00"
 }
 {
-  "EmailAddress": "shardhaswamy98@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:04.040000+00:00"
-}
-{
-  "EmailAddress": "prashatrwagh@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:54.638000+00:00"
-}
-{
-  "EmailAddress": "nisar.siraz.shaikh@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:43.418000+00:00"
-}
-{
-  "EmailAddress": "jagdaleaniket1403@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:43.231000+00:00"
-}
-{
   "EmailAddress": "ravi.babli24215@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:35:10.276000+00:00"
-}
-{
-  "EmailAddress": "nuttyvikadftmf@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:36.158000+00:00"
-}
-{
-  "EmailAddress": "mayurpt11@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:24.159000+00:00"
 }
 {
   "EmailAddress": "wakhareatul0605@gmail.com",
@@ -617,29 +542,49 @@
   "LastUpdateTime": "2024-12-09T18:58:35.240000+00:00"
 }
 {
-  "EmailAddress": "mayyank786@gmail.com",
+  "EmailAddress": "singunilesh@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:23.633000+00:00"
+  "LastUpdateTime": "2024-12-09T19:27:38.087000+00:00"
 }
 {
-  "EmailAddress": "rafiq.mujawar@yahoo.in",
+  "EmailAddress": "shardhaswamy98@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:39.364000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:04.040000+00:00"
 }
 {
-  "EmailAddress": "burnard.gwc@greenply.com",
+  "EmailAddress": "yeshwanthkrishna@accenture.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:19.519000+00:00"
+  "LastUpdateTime": "2024-12-09T18:58:34.772000+00:00"
 }
 {
-  "EmailAddress": "dharmendrayadava41593@gmail.com",
+  "EmailAddress": "yashwantjogadand0804@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:45.091000+00:00"
+  "LastUpdateTime": "2024-12-10T07:40:28.011000+00:00"
 }
 {
-  "EmailAddress": "ranjeetsinkar1987@gmail.com",
+  "EmailAddress": "chantansngh50@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:14.188000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:07.561000+00:00"
+}
+{
+  "EmailAddress": "nishartun-13654@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:42.970000+00:00"
+}
+{
+  "EmailAddress": "kiranzarad177@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:13.723000+00:00"
+}
+{
+  "EmailAddress": "rajashriavati11@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:30.604000+00:00"
+}
+{
+  "EmailAddress": "unitedcontractionspune@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:29.016000+00:00"
 }
 {
   "EmailAddress": "rajesahebnadaf1872@gmail.com",
@@ -652,29 +597,9 @@
   "LastUpdateTime": "2024-12-09T19:44:10.947000+00:00"
 }
 {
-  "EmailAddress": "madhvibhalerao949@gmail.com",
+  "EmailAddress": "burnard.gwc@greenply.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:49.895000+00:00"
-}
-{
-  "EmailAddress": "rajashriavati11@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:30.604000+00:00"
-}
-{
-  "EmailAddress": "bondem1995@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:13.274000+00:00"
-}
-{
-  "EmailAddress": "sominath590@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:32.859000+00:00"
-}
-{
-  "EmailAddress": "ganesh.sheersagaar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:23+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:19.519000+00:00"
 }
 {
   "EmailAddress": "pravin.khandagale@shubham.biz",
@@ -682,9 +607,39 @@
   "LastUpdateTime": "2024-12-09T19:35:51.215000+00:00"
 }
 {
-  "EmailAddress": "yeshwanthkrishna@accenture.com",
+  "EmailAddress": "rafiq.mujawar@yahoo.in",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:34.772000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:39.364000+00:00"
+}
+{
+  "EmailAddress": "sominath590@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:32.859000+00:00"
+}
+{
+  "EmailAddress": "rameshbhapkar0707@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:19.152000+00:00"
+}
+{
+  "EmailAddress": "kiran.nagare1984@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:18.218000+00:00"
+}
+{
+  "EmailAddress": "mayurpt11@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:24.159000+00:00"
+}
+{
+  "EmailAddress": "tatebharat99@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:46.089000+00:00"
+}
+{
+  "EmailAddress": "jagdaleaniket1403@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:43.231000+00:00"
 }
 {
   "EmailAddress": "dattadevkate1995@gmail.com",
@@ -697,34 +652,9 @@
   "LastUpdateTime": "2024-12-09T19:35:53.511000+00:00"
 }
 {
-  "EmailAddress": "sanjay.ragate@hdfcbank.com",
+  "EmailAddress": "mayyank786@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:39.718000+00:00"
-}
-{
-  "EmailAddress": "tatebharat99@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:46.089000+00:00"
-}
-{
-  "EmailAddress": "novinrorari0931@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:37.444000+00:00"
-}
-{
-  "EmailAddress": "audhut.nimbargi@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:39.325000+00:00"
-}
-{
-  "EmailAddress": "manoharbraikar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:39:04.923000+00:00"
-}
-{
-  "EmailAddress": "singunilesh@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:38.087000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:23.633000+00:00"
 }
 {
   "EmailAddress": "balashebkshirsagar2016@gmail.com",
@@ -732,14 +662,64 @@
   "LastUpdateTime": "2024-12-09T19:43:29.113000+00:00"
 }
 {
-  "EmailAddress": "pagititu07@gmail.com",
+  "EmailAddress": "novinrorari0931@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:30.252000+00:00"
+  "LastUpdateTime": "2024-12-09T19:36:37.444000+00:00"
 }
 {
-  "EmailAddress": "nareshdingiya@gmail.com",
+  "EmailAddress": "mahajansupriya346@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:57.308000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:51.089000+00:00"
+}
+{
+  "EmailAddress": "bapu.malavadkar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:27.215000+00:00"
+}
+{
+  "EmailAddress": "prashatrwagh@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:54.638000+00:00"
+}
+{
+  "EmailAddress": "ranjeetsinkar1987@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:14.188000+00:00"
+}
+{
+  "EmailAddress": "kirannkambale1110@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:14.641000+00:00"
+}
+{
+  "EmailAddress": "dharmendrayadava41593@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:45.091000+00:00"
+}
+{
+  "EmailAddress": "madhvibhalerao949@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:49.895000+00:00"
+}
+{
+  "EmailAddress": "telorgurukrupa1988@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:43.120000+00:00"
+}
+{
+  "EmailAddress": "ganesh.sheersagaar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:23+00:00"
+}
+{
+  "EmailAddress": "bondem1995@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:13.274000+00:00"
+}
+{
+  "EmailAddress": "nitinsonavane1994@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:39.437000+00:00"
 }
 {
   "EmailAddress": "pradip_banger@yahoo.com",
@@ -747,15 +727,40 @@
   "LastUpdateTime": "2024-12-09T19:36:10.472000+00:00"
 }
 {
-  "EmailAddress": "nitinsonavane1994@gmail.com",
+  "EmailAddress": "nareshdingiya@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:39.437000+00:00"
+  "LastUpdateTime": "2024-12-09T19:36:57.308000+00:00"
+}
+{
+  "EmailAddress": "btrathod1986@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:12.427000+00:00"
+}
+{
+  "EmailAddress": "rajuvikram@hotmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:30.773000+00:00"
+}
+{
+  "EmailAddress": "manoharbraikar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:39:04.923000+00:00"
+}
+{
+  "EmailAddress": "pagititu07@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:30.252000+00:00"
 }
 ,
 {
-  "EmailAddress": "gangadhardhutadamala@gmail.com",
+  "EmailAddress": "mansi@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:16.799000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:29.119000+00:00"
+}
+{
+  "EmailAddress": "surjeetsalunkhe@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:04.273000+00:00"
 }
 {
   "EmailAddress": "ismail_im@rediffmail.com",
@@ -768,34 +773,9 @@
   "LastUpdateTime": "2024-12-09T19:43:59.475000+00:00"
 }
 {
-  "EmailAddress": "mansi@gmail.com",
+  "EmailAddress": "santonee23@rediffmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:29.119000+00:00"
-}
-{
-  "EmailAddress": "wabishek8294@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:35.754000+00:00"
-}
-{
-  "EmailAddress": "surjeetsalunkhe@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:04.273000+00:00"
-}
-{
-  "EmailAddress": "tusharkatari84@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:35.658000+00:00"
-}
-{
-  "EmailAddress": "vc10101989@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:21.917000+00:00"
-}
-{
-  "EmailAddress": "khangardilip10@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:22.243000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:34.258000+00:00"
 }
 {
   "EmailAddress": "azadmanarajgujar@gmail.com",
@@ -803,39 +783,9 @@
   "LastUpdateTime": "2024-12-09T19:43:33.122000+00:00"
 }
 {
-  "EmailAddress": "ijgude9191@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:50.317000+00:00"
-}
-{
   "EmailAddress": "naynakhairnar123@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:36:52.754000+00:00"
-}
-{
-  "EmailAddress": "santonee23@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:34.258000+00:00"
-}
-{
-  "EmailAddress": "sundariwale88@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:12.093000+00:00"
-}
-{
-  "EmailAddress": "l.pjogdand@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:59.404000+00:00"
-}
-{
-  "EmailAddress": "kuldeeppethkar@aptaracorp.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:49.683000+00:00"
-}
-{
-  "EmailAddress": "lalitpamma@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:58.981000+00:00"
 }
 {
   "EmailAddress": "amrit.kumar@bharti-axalife.com",
@@ -843,29 +793,24 @@
   "LastUpdateTime": "2024-12-09T19:44:13.737000+00:00"
 }
 {
-  "EmailAddress": "kuldip_i@gmail.com",
+  "EmailAddress": "gantisudheer@yahoo.in",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:03.389000+00:00"
+  "LastUpdateTime": "2024-12-09T19:42:17.190000+00:00"
 }
 {
-  "EmailAddress": "drsuchitaganachart@gmail.com",
+  "EmailAddress": "sundariwale88@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:32.861000+00:00"
+  "LastUpdateTime": "2024-12-09T19:27:12.093000+00:00"
 }
 {
-  "EmailAddress": "swpnilsukre1989@gmail.com",
+  "EmailAddress": "gangadhardhutadamala@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:50.817000+00:00"
+  "LastUpdateTime": "2024-12-09T19:42:16.799000+00:00"
 }
 {
-  "EmailAddress": "mrdipti@glenmark-generics.com",
+  "EmailAddress": "khangardilip10@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:08.138000+00:00"
-}
-{
-  "EmailAddress": "kumar01@xento.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:09.814000+00:00"
+  "LastUpdateTime": "2024-12-09T19:38:22.243000+00:00"
 }
 {
   "EmailAddress": "a.tarange@yahoo.com",
@@ -873,64 +818,19 @@
   "LastUpdateTime": "2024-12-09T19:44:56.014000+00:00"
 }
 {
-  "EmailAddress": "prakashgautam@nexadealer.com",
+  "EmailAddress": "kuldeeppethkar@aptaracorp.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:03.299000+00:00"
+  "LastUpdateTime": "2024-12-09T19:38:49.683000+00:00"
 }
 {
-  "EmailAddress": "arasav11146@gmail.com",
+  "EmailAddress": "tusharkatari84@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:54.702000+00:00"
+  "LastUpdateTime": "2024-12-09T19:26:35.658000+00:00"
 }
 {
-  "EmailAddress": "vindkarwar@yahoo.com",
+  "EmailAddress": "lalitpamma@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:06.552000+00:00"
-}
-{
-  "EmailAddress": "babalupatil12@yahoo.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:32.950000+00:00"
-}
-{
-  "EmailAddress": "taim@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:50.015000+00:00"
-}
-{
-  "EmailAddress": "sandipsanas@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:46.786000+00:00"
-}
-{
-  "EmailAddress": "kbroka786@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:26.656000+00:00"
-}
-{
-  "EmailAddress": "sandeep.solanki19696@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:50.508000+00:00"
-}
-{
-  "EmailAddress": "ghevarchandchavan76@ymail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:14.340000+00:00"
-}
-{
-  "EmailAddress": "guljar.singh@ada.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:45:19.747000+00:00"
-}
-{
-  "EmailAddress": "vinoddharnaval@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:03.142000+00:00"
-}
-{
-  "EmailAddress": "javedimam.maniyar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:38.851000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:58.981000+00:00"
 }
 {
   "EmailAddress": "tushar456@gmail.com",
@@ -938,14 +838,99 @@
   "LastUpdateTime": "2024-12-09T19:26:37.328000+00:00"
 }
 {
-  "EmailAddress": "amolgaikwad_1982@yahoo.com",
+  "EmailAddress": "mrdipti@glenmark-generics.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:19.598000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:08.138000+00:00"
+}
+{
+  "EmailAddress": "taim@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:50.015000+00:00"
+}
+{
+  "EmailAddress": "kumar01@xento.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:09.814000+00:00"
+}
+{
+  "EmailAddress": "kuldip_i@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:03.389000+00:00"
+}
+{
+  "EmailAddress": "sandipsanas@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:46.786000+00:00"
+}
+{
+  "EmailAddress": "ghevarchandchavan76@ymail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:14.340000+00:00"
+}
+{
+  "EmailAddress": "arasav11146@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:54.702000+00:00"
+}
+{
+  "EmailAddress": "swpnilsukre1989@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:50.817000+00:00"
+}
+{
+  "EmailAddress": "prakashgautam@nexadealer.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:03.299000+00:00"
+}
+{
+  "EmailAddress": "vinoddharnaval@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:03.142000+00:00"
+}
+{
+  "EmailAddress": "rupesh.kamble@rediffmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:19.899000+00:00"
 }
 {
   "EmailAddress": "vishal4m@techmahindra.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:27:05.294000+00:00"
+}
+{
+  "EmailAddress": "babalupatil12@yahoo.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:32.950000+00:00"
+}
+{
+  "EmailAddress": "scinceacadamy52@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:14.898000+00:00"
+}
+{
+  "EmailAddress": "drsuchitaganachart@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:32.861000+00:00"
+}
+{
+  "EmailAddress": "sandeep.solanki19696@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:50.508000+00:00"
+}
+{
+  "EmailAddress": "amolgaikwad_1982@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:19.598000+00:00"
+}
+{
+  "EmailAddress": "sanjaybiradar66868@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:39.582000+00:00"
+}
+{
+  "EmailAddress": "ijgude9191@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:50.317000+00:00"
 }
 {
   "EmailAddress": "anwarhussain.shaikh@hdfcbank.com",
@@ -958,19 +943,9 @@
   "LastUpdateTime": "2024-12-10T07:39:03.967000+00:00"
 }
 {
-  "EmailAddress": "tusharkulkarni@gmail.com",
+  "EmailAddress": "vc10101989@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:36.566000+00:00"
-}
-{
-  "EmailAddress": "gantisudheer@yahoo.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:17.190000+00:00"
-}
-{
-  "EmailAddress": "scinceacadamy52@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:14.898000+00:00"
+  "LastUpdateTime": "2024-12-09T19:26:21.917000+00:00"
 }
 {
   "EmailAddress": "kamblejsantosh@gmail.com",
@@ -978,9 +953,14 @@
   "LastUpdateTime": "2024-12-09T19:38:33.979000+00:00"
 }
 {
-  "EmailAddress": "sanjaybiradar66868@gmail.com",
+  "EmailAddress": "l.pjogdand@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:39.582000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:59.404000+00:00"
+}
+{
+  "EmailAddress": "guljar.singh@ada.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:45:19.747000+00:00"
 }
 {
   "EmailAddress": "sachinnag12@gmail.com",
@@ -993,75 +973,40 @@
   "LastUpdateTime": "2024-12-09T19:44:03.110000+00:00"
 }
 {
-  "EmailAddress": "rupesh.kamble@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:19.899000+00:00"
-}
-{
   "EmailAddress": "girirajberva123@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:42:11.032000+00:00"
 }
+{
+  "EmailAddress": "wabishek8294@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:35.754000+00:00"
+}
+{
+  "EmailAddress": "vindkarwar@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:06.552000+00:00"
+}
+{
+  "EmailAddress": "javedimam.maniyar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:38.851000+00:00"
+}
+{
+  "EmailAddress": "tusharkulkarni@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:36.566000+00:00"
+}
+{
+  "EmailAddress": "kbroka786@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:26.656000+00:00"
+}
 ,
 {
-  "EmailAddress": "shahrukhmulai71457@gmail.com",
+  "EmailAddress": "sujan.chavan@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:10.089000+00:00"
-}
-{
-  "EmailAddress": "pereiradarick029@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:16.860000+00:00"
-}
-{
-  "EmailAddress": "abhijeekamthe1@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:48.184000+00:00"
-}
-{
-  "EmailAddress": "satishbishnai299028782929@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:23.310000+00:00"
-}
-{
-  "EmailAddress": "prakashshiinde@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:02.693000+00:00"
-}
-{
-  "EmailAddress": "jaya.mungare123@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:41:37.708000+00:00"
-}
-{
-  "EmailAddress": "smahender3266@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:35.981000+00:00"
-}
-{
-  "EmailAddress": "anwarsayyad@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:55.534000+00:00"
-}
-{
-  "EmailAddress": "dadasaheb.kaldate@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:02.357000+00:00"
-}
-{
-  "EmailAddress": "artwilldesigne77@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:51.380000+00:00"
-}
-{
-  "EmailAddress": "poonammetre53@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:11.602000+00:00"
-}
-{
-  "EmailAddress": "nilesh.akhade@trenthyper-tata.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:47.271000+00:00"
+  "LastUpdateTime": "2024-12-09T19:27:18.392000+00:00"
 }
 {
   "EmailAddress": "manojgenurathod08237@gmail.com",
@@ -1069,9 +1014,229 @@
   "LastUpdateTime": "2024-12-09T19:37:31.174000+00:00"
 }
 {
+  "EmailAddress": "satish.khodave@birlasunlife.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:23.990000+00:00"
+}
+{
+  "EmailAddress": "smahender3266@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:35.981000+00:00"
+}
+{
+  "EmailAddress": "mansingjadhav992@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:37:29.152000+00:00"
+}
+{
+  "EmailAddress": "nilesh.akhade@trenthyper-tata.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:47.271000+00:00"
+}
+{
+  "EmailAddress": "osaramchauhan77@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:32.797000+00:00"
+}
+{
   "EmailAddress": "ramrajeanbhule1074@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:35:17.146000+00:00"
+}
+{
+  "EmailAddress": "dadasaheb.kaldate@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:02.357000+00:00"
+}
+{
+  "EmailAddress": "ashwinidhile91@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:43.457000+00:00"
+}
+{
+  "EmailAddress": "shahrukhmulai71457@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:10.089000+00:00"
+}
+{
+  "EmailAddress": "abhijeekamthe1@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:48.184000+00:00"
+}
+{
+  "EmailAddress": "artwilldesigne77@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:51.380000+00:00"
+}
+{
+  "EmailAddress": "satishbishnai299028782929@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:23.310000+00:00"
+}
+{
+  "EmailAddress": "abcd243@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:51.192000+00:00"
+}
+{
+  "EmailAddress": "sachinsamdade599@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:07.198000+00:00"
+}
+{
+  "EmailAddress": "jaya.mungare123@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:41:37.708000+00:00"
+}
+{
+  "EmailAddress": "girishgavandi8450@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:10.244000+00:00"
+}
+{
+  "EmailAddress": "prakashshiinde@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:02.693000+00:00"
+}
+{
+  "EmailAddress": "dinath81@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:44.384000+00:00"
+}
+{
+  "EmailAddress": "pradyumanmehandale@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:06.663000+00:00"
+}
+{
+  "EmailAddress": "ghodake.st1980@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:11.552000+00:00"
+}
+{
+  "EmailAddress": "shreengineering65@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:49.646000+00:00"
+}
+{
+  "EmailAddress": "umesh_b2001@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:34.279000+00:00"
+}
+{
+  "EmailAddress": "vijay.bg@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:20.644000+00:00"
+}
+{
+  "EmailAddress": "vprabhu55@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:37.914000+00:00"
+}
+{
+  "EmailAddress": "satishchorpade@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:22.820000+00:00"
+}
+{
+  "EmailAddress": "shivarajborale1478@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:53.155000+00:00"
+}
+{
+  "EmailAddress": "bhaleraosantosh074@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:22.906000+00:00"
+}
+{
+  "EmailAddress": "sureshgadeevar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:03.155000+00:00"
+}
+{
+  "EmailAddress": "shankardedhe9099@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:05.544000+00:00"
+}
+{
+  "EmailAddress": "khokharivishwanath@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:20.024000+00:00"
+}
+{
+  "EmailAddress": "hankare04711@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:01.363000+00:00"
+}
+{
+  "EmailAddress": "sachinchandrakantmahajan@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:29:10.253000+00:00"
+}
+{
+  "EmailAddress": "poonammetre53@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:11.602000+00:00"
+}
+{
+  "EmailAddress": "karangadhave9@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:30.260000+00:00"
+}
+{
+  "EmailAddress": "anwarsayyad@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:55.534000+00:00"
+}
+{
+  "EmailAddress": "dibyendugosnami92@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:43.396000+00:00"
+}
+{
+  "EmailAddress": "attrinarendrao@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:41.507000+00:00"
+}
+{
+  "EmailAddress": "vrushbhajadhav9612@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:36.987000+00:00"
+}
+{
+  "EmailAddress": "feroozkhan99397@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:26.919000+00:00"
+}
+{
+  "EmailAddress": "bhupeshdhamy@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:16.601000+00:00"
+}
+{
+  "EmailAddress": "dilihansda39@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:35.904000+00:00"
+}
+{
+  "EmailAddress": "pushipandit2796@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:42.729000+00:00"
+}
+{
+  "EmailAddress": "bharavent@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:20.674000+00:00"
+}
+{
+  "EmailAddress": "ashokrathod1992@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:47.398000+00:00"
+}
+{
+  "EmailAddress": "pereiradarick029@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:16.860000+00:00"
 }
 {
   "EmailAddress": "ganpatrajmehata@gmail.com",
@@ -1084,174 +1249,9 @@
   "LastUpdateTime": "2024-12-09T19:42:52.166000+00:00"
 }
 {
-  "EmailAddress": "satish.khodave@birlasunlife.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:23.990000+00:00"
-}
-{
-  "EmailAddress": "ashokrathod1992@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:47.398000+00:00"
-}
-{
-  "EmailAddress": "shivarajborale1478@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:53.155000+00:00"
-}
-{
-  "EmailAddress": "osaramchauhan77@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:32.797000+00:00"
-}
-{
-  "EmailAddress": "bhupeshdhamy@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:16.601000+00:00"
-}
-{
-  "EmailAddress": "vrushbhajadhav9612@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:36.987000+00:00"
-}
-{
-  "EmailAddress": "khokharivishwanath@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:20.024000+00:00"
-}
-{
-  "EmailAddress": "dilihansda39@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:35.904000+00:00"
-}
-{
-  "EmailAddress": "feroozkhan99397@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:26.919000+00:00"
-}
-{
-  "EmailAddress": "attrinarendrao@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:41.507000+00:00"
-}
-{
   "EmailAddress": "anasgourg97@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:44:07.488000+00:00"
-}
-{
-  "EmailAddress": "girishgavandi8450@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:10.244000+00:00"
-}
-{
-  "EmailAddress": "umesh_b2001@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:34.279000+00:00"
-}
-{
-  "EmailAddress": "dinath81@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:44.384000+00:00"
-}
-{
-  "EmailAddress": "karangadhave9@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:30.260000+00:00"
-}
-{
-  "EmailAddress": "bharavent@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:20.674000+00:00"
-}
-{
-  "EmailAddress": "pushipandit2796@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:42.729000+00:00"
-}
-{
-  "EmailAddress": "sureshgadeevar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:03.155000+00:00"
-}
-{
-  "EmailAddress": "abcd243@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:51.192000+00:00"
-}
-{
-  "EmailAddress": "bhaleraosantosh074@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:22.906000+00:00"
-}
-{
-  "EmailAddress": "dibyendugosnami92@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:43.396000+00:00"
-}
-{
-  "EmailAddress": "hankare04711@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:01.363000+00:00"
-}
-{
-  "EmailAddress": "shreengineering65@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:49.646000+00:00"
-}
-{
-  "EmailAddress": "pradyumanmehandale@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:06.663000+00:00"
-}
-{
-  "EmailAddress": "ashwinidhile91@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:43.457000+00:00"
-}
-{
-  "EmailAddress": "sachinsamdade599@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:07.198000+00:00"
-}
-{
-  "EmailAddress": "sachinchandrakantmahajan@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:10.253000+00:00"
-}
-{
-  "EmailAddress": "satishchorpade@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:22.820000+00:00"
-}
-{
-  "EmailAddress": "mansingjadhav992@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:29.152000+00:00"
-}
-{
-  "EmailAddress": "shankardedhe9099@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:05.544000+00:00"
-}
-{
-  "EmailAddress": "vprabhu55@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:37.914000+00:00"
-}
-{
-  "EmailAddress": "ghodake.st1980@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:11.552000+00:00"
-}
-{
-  "EmailAddress": "vijay.bg@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:20.644000+00:00"
-}
-{
-  "EmailAddress": "sujan.chavan@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:18.392000+00:00"
 }
 ,
 {
@@ -1315,6 +1315,11 @@
   "LastUpdateTime": "2024-12-09T19:44:45.766000+00:00"
 }
 {
+  "EmailAddress": "sonukaranjavekar@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:27.133000+00:00"
+}
+{
   "EmailAddress": "kunalsawantdesai@yahoo.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:38:02.929000+00:00"
@@ -1340,11 +1345,6 @@
   "LastUpdateTime": "2024-12-09T19:44:52.017000+00:00"
 }
 {
-  "EmailAddress": "sonukaranjavekar@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:27.133000+00:00"
-}
-{
   "EmailAddress": "9shankargavali@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-10T07:38:02.228000+00:00"
@@ -1365,11 +1365,6 @@
   "LastUpdateTime": "2024-12-09T19:37:08.319000+00:00"
 }
 {
-  "EmailAddress": "kiran.gujrla@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:18.760000+00:00"
-}
-{
   "EmailAddress": "joshisantosh@hdfclife.in",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:41:31.808000+00:00"
@@ -1378,6 +1373,11 @@
   "EmailAddress": "malahpatil@ymail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:37:43.869000+00:00"
+}
+{
+  "EmailAddress": "kiran.gujrla@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:18.760000+00:00"
 }
 {
   "EmailAddress": "raj_nandai25@yahoo.in",
@@ -1400,29 +1400,14 @@
   "LastUpdateTime": "2024-12-09T19:43:56.495000+00:00"
 }
 {
+  "EmailAddress": "rajwardhandeshi1964@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:21.995000+00:00"
+}
+{
   "EmailAddress": "rajeshnavasare123@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-10T07:39:33.177000+00:00"
-}
-{
-  "EmailAddress": "rijvanhanp161988@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:29:32.764000+00:00"
-}
-{
-  "EmailAddress": "suryakantmaindad08@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:00.916000+00:00"
-}
-{
-  "EmailAddress": "ajayshinde2406@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:06.221000+00:00"
-}
-{
-  "EmailAddress": "rahul.pimpale@bajajfinserv.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:36.728000+00:00"
 }
 {
   "EmailAddress": "varsha198155@yahoo.com",
@@ -1430,14 +1415,34 @@
   "LastUpdateTime": "2024-12-09T19:26:26.571000+00:00"
 }
 {
-  "EmailAddress": "vkulkarni@egain.com",
+  "EmailAddress": "rijvanhanp161988@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T18:58:40.172000+00:00"
+  "LastUpdateTime": "2024-12-09T19:29:32.764000+00:00"
+}
+{
+  "EmailAddress": "ajayshinde2406@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:06.221000+00:00"
+}
+{
+  "EmailAddress": "suryakantmaindad08@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:00.916000+00:00"
+}
+{
+  "EmailAddress": "rahul.pimpale@bajajfinserv.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:36.728000+00:00"
 }
 {
   "EmailAddress": "jahirkhan8010@yahoo.co.in",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:41:41.817000+00:00"
+}
+{
+  "EmailAddress": "vkulkarni@egain.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T18:58:40.172000+00:00"
 }
 {
   "EmailAddress": "satish.salve07@yahoo.in",
@@ -1460,19 +1465,14 @@
   "LastUpdateTime": "2024-12-09T19:42:11.367000+00:00"
 }
 {
-  "EmailAddress": "marutipowar10@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:26.807000+00:00"
-}
-{
   "EmailAddress": "tdewil29@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:26:44.832000+00:00"
 }
 {
-  "EmailAddress": "rajwardhandeshi1964@gmail.com",
+  "EmailAddress": "marutipowar10@rediffmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:21.995000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:26.807000+00:00"
 }
 {
   "EmailAddress": "tatyasotodkar@gmail.com",
@@ -1506,29 +1506,9 @@
 }
 ,
 {
-  "EmailAddress": "sudarshan5670@gmail.com",
+  "EmailAddress": "sandip.phad1992@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:17.353000+00:00"
-}
-{
-  "EmailAddress": "prashantengineers_06@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:56.142000+00:00"
-}
-{
-  "EmailAddress": "shail_raut1977@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:10.510000+00:00"
-}
-{
-  "EmailAddress": "rajeshwadaje88@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:26.841000+00:00"
-}
-{
-  "EmailAddress": "bismilahdabby123@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:27.432000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:45.453000+00:00"
 }
 {
   "EmailAddress": "tusharkambale576@gmail.com",
@@ -1536,9 +1516,9 @@
   "LastUpdateTime": "2024-12-09T19:26:35.900000+00:00"
 }
 {
-  "EmailAddress": "rafik_007_shaikh@yahoo.com",
+  "EmailAddress": "munira_shah@yahoo.co.in",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:35:41.919000+00:00"
+  "LastUpdateTime": "2024-12-10T07:39:11.460000+00:00"
 }
 {
   "EmailAddress": "vksharmag27@gmail.com",
@@ -1551,24 +1531,24 @@
   "LastUpdateTime": "2024-12-09T19:35:29.061000+00:00"
 }
 {
-  "EmailAddress": "dalawiswapanil95@gmail.com",
+  "EmailAddress": "kanjurang54@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:58.946000+00:00"
+  "LastUpdateTime": "2024-12-09T19:38:31.250000+00:00"
 }
 {
-  "EmailAddress": "ganpatsinghsudha705@gmail.com",
+  "EmailAddress": "bhupmnhhxj@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:16.295000+00:00"
+  "LastUpdateTime": "2024-12-11T20:11:27.017000+00:00"
 }
 {
-  "EmailAddress": "srimaegoam1994@gmail.com",
+  "EmailAddress": "prashantengineers_06@yahoo.co.in",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:23.906000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:56.142000+00:00"
 }
 {
-  "EmailAddress": "govind.sharma8989@gmail.com",
+  "EmailAddress": "rajeshwadaje88@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:42:07.388000+00:00"
+  "LastUpdateTime": "2024-12-09T19:35:26.841000+00:00"
 }
 {
   "EmailAddress": "abhi_7208@yahoo.com",
@@ -1576,84 +1556,34 @@
   "LastUpdateTime": "2024-12-09T19:44:51.894000+00:00"
 }
 {
-  "EmailAddress": "akc9922744049@gmail.com",
+  "EmailAddress": "aniktdhull0043@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:38:07.946000+00:00"
+  "LastUpdateTime": "2024-12-09T19:44:05.779000+00:00"
 }
 {
-  "EmailAddress": "sidramnandan123@gmail.com",
+  "EmailAddress": "adyravigawas@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:27:41.475000+00:00"
+  "LastUpdateTime": "2024-12-09T19:44:42.316000+00:00"
 }
 {
-  "EmailAddress": "kartiksp2001@yahoo.com",
+  "EmailAddress": "bismilahdabby123@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:30.999000+00:00"
+  "LastUpdateTime": "2024-12-10T07:38:27.432000+00:00"
 }
 {
-  "EmailAddress": "bashir.prndhari@gmail.com",
+  "EmailAddress": "shail_raut1977@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:26.407000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:10.510000+00:00"
 }
 {
-  "EmailAddress": "prabhkarkujur@gmail.com",
+  "EmailAddress": "manojchachra78@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:36:09.183000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:31.197000+00:00"
 }
 {
-  "EmailAddress": "sesaramchoudhari2005@gmail.com",
+  "EmailAddress": "sushikumarmandal@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:13.427000+00:00"
-}
-{
-  "EmailAddress": "kanjurang54@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:31.250000+00:00"
-}
-{
-  "EmailAddress": "amitdarage@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:22.121000+00:00"
-}
-{
-  "EmailAddress": "anil.shingade@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:05.223000+00:00"
-}
-{
-  "EmailAddress": "kiranchalak2@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:38:17.352000+00:00"
-}
-{
-  "EmailAddress": "vijaypatil7@yahoo.co.in",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:14.421000+00:00"
-}
-{
-  "EmailAddress": "tusharkumbhar9168500214@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:35.234000+00:00"
-}
-{
-  "EmailAddress": "chetanjasingpure@rocketmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:43:07.638000+00:00"
-}
-{
-  "EmailAddress": "vickypasalkar_rock21@yahoo.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:21.523000+00:00"
-}
-{
-  "EmailAddress": "lalitdevasi11251@gmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:58.101000+00:00"
-}
-{
-  "EmailAddress": "sarojun@rediffmail.com",
-  "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:27.366000+00:00"
+  "LastUpdateTime": "2024-12-09T19:26:59.090000+00:00"
 }
 {
   "EmailAddress": "ganeshkomar.gandhare@gmail.com",
@@ -1671,14 +1601,19 @@
   "LastUpdateTime": "2024-12-10T07:38:48.366000+00:00"
 }
 {
+  "EmailAddress": "tusharkumbhar9168500214@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:35.234000+00:00"
+}
+{
   "EmailAddress": "hasina.shekh129@gmail.com",
   "Reason": "BOUNCE",
   "LastUpdateTime": "2024-12-09T19:41:57.072000+00:00"
 }
 {
-  "EmailAddress": "sandip.phad1992@gmail.com",
+  "EmailAddress": "sarojun@rediffmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:28:45.453000+00:00"
+  "LastUpdateTime": "2024-12-09T19:28:27.366000+00:00"
 }
 {
   "EmailAddress": "rajeshghuge.hinganikar@yahoo.com",
@@ -1686,9 +1621,9 @@
   "LastUpdateTime": "2024-12-09T19:35:30.312000+00:00"
 }
 {
-  "EmailAddress": "aniktdhull0043@gmail.com",
+  "EmailAddress": "chetanjasingpure@rocketmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:05.779000+00:00"
+  "LastUpdateTime": "2024-12-09T19:43:07.638000+00:00"
 }
 {
   "EmailAddress": "maheshdhondiram1978@gmail.com",
@@ -1696,23 +1631,93 @@
   "LastUpdateTime": "2024-12-09T19:37:45.161000+00:00"
 }
 {
-  "EmailAddress": "adyravigawas@gmail.com",
+  "EmailAddress": "kartiksp2001@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:44:42.316000+00:00"
+  "LastUpdateTime": "2024-12-09T19:38:30.999000+00:00"
 }
 {
-  "EmailAddress": "manojchachra78@gmail.com",
+  "EmailAddress": "sidramnandan123@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:37:31.197000+00:00"
+  "LastUpdateTime": "2024-12-09T19:27:41.475000+00:00"
 }
 {
-  "EmailAddress": "munira_shah@yahoo.co.in",
+  "EmailAddress": "lalitdevasi11251@gmail.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-10T07:39:11.460000+00:00"
+  "LastUpdateTime": "2024-12-09T19:37:58.101000+00:00"
 }
 {
-  "EmailAddress": "sushikumarmandal@gmail.com",
+  "EmailAddress": "vickypasalkar_rock21@yahoo.com",
   "Reason": "BOUNCE",
-  "LastUpdateTime": "2024-12-09T19:26:59.090000+00:00"
+  "LastUpdateTime": "2024-12-09T19:26:21.523000+00:00"
+}
+{
+  "EmailAddress": "srimaegoam1994@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:23.906000+00:00"
+}
+{
+  "EmailAddress": "dalawiswapanil95@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:58.946000+00:00"
+}
+{
+  "EmailAddress": "sesaramchoudhari2005@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:28:13.427000+00:00"
+}
+{
+  "EmailAddress": "kiranchalak2@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:38:17.352000+00:00"
+}
+{
+  "EmailAddress": "anil.shingade@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:05.223000+00:00"
+}
+{
+  "EmailAddress": "ganpatsinghsudha705@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:16.295000+00:00"
+}
+{
+  "EmailAddress": "vijaypatil7@yahoo.co.in",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:26:14.421000+00:00"
+}
+{
+  "EmailAddress": "rafik_007_shaikh@yahoo.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:35:41.919000+00:00"
+}
+{
+  "EmailAddress": "sudarshan5670@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:27:17.353000+00:00"
+}
+{
+  "EmailAddress": "govind.sharma8989@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:42:07.388000+00:00"
+}
+{
+  "EmailAddress": "bashir.prndhari@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:43:26.407000+00:00"
+}
+{
+  "EmailAddress": "prabhkarkujur@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:36:09.183000+00:00"
+}
+{
+  "EmailAddress": "akc9922744049@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-10T07:38:07.946000+00:00"
+}
+{
+  "EmailAddress": "amitdarage@gmail.com",
+  "Reason": "BOUNCE",
+  "LastUpdateTime": "2024-12-09T19:44:22.121000+00:00"
 }
 ]
