@@ -1,0 +1,1422 @@
+wget http://127.0.0.1:8000/
+cat index.html 
+ssh-keygen -t rsa -b 4096 -C "patilvaibhav9510@gmail.com"
+cd .ssh/
+ls
+cat id_rsa.pub 
+cd
+git clone git@github.com:OmkarMankar09/notice.git
+ls
+git clone git@github.com:OmkarMankar09/notice.git
+ls
+sudo apt update 
+sudo apt upgrade 
+ls
+cd notice/
+ls
+python3 -m venv venv
+sudo apt install python3.12
+sudo apt install python3.12-venv
+python3 -m venv venv
+ls
+source activate venv
+pythom3 -v
+python3 -v
+python3 -V
+pip install venv
+sudo apt install python3-pip
+pip install venv
+pip3 install venv
+pip3 install virtualenv
+python3 -m venv
+python3 -m pip install virtualenv
+sudo pip3 install virtualenv
+sudo apt install python3-pip python3-dev nginx
+sudo pip3 install virtualenv
+pip3 install virtualenv
+cd venv/
+ls
+cd ..
+python3 -m pip -V
+ls
+source venv/bin/activate
+pip list
+pip install -r requirements.txt 
+pip list
+python3 manage.py runserver
+cd notice
+nano settings.py 
+sudo apt install mysql-server-8.0 
+cat settings.py 
+nano settings.py 
+mysql -u root
+mysql -u root -p
+sudo mysql -u root -p
+mysql -u notice -p
+cd ..
+ls
+python3 manage.py runserver
+sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf 
+sudo systemctl restart mysql.service
+python3 manage.py runserver
+mysql -u root -p
+sudo mysql -u root -p
+nano notice/settings.py 
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migration
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py runserver 0.0.0.0:8000
+python3 manage.py runserver 0.0.0.0:7000
+netstat -ntlp
+sudo apt install net-tools
+python3 manage.py runserver 0.0.0.0:7000
+python3 manage.py runserver 0.0.0.0:8000
+sudo apt install nginx
+cd notice/
+nano notice/settings.py 
+history
+cd notice/
+ls
+nano docker.sh
+chmod +x docker.sh 
+sudo ./docker.sh 
+cd notice/
+ls
+nano Dockerfile
+sudo init 6
+python3 -V
+docker ps
+cd notice/
+ls
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo apt install -y build-essential python3-dev python3-pip python3-setuptools python3-wheel
+sudo apt install -y libpython3-dev gfortran libopenblas-dev liblapack-dev
+pip install meson ninja
+pip install --upgrade pip setuptools wheel
+source venv/bin/activate
+pip install --upgrade pip setuptools wheel
+pip install pandas
+docker build -t django-notice-app .
+python3 -m pip -V
+nano Dockerfile 
+docker system prune
+docker build -t django-notice-app .
+docker images
+cd
+mkdir docker
+cd docker/
+ls
+nano notice-app.yml
+nano notice-app.service
+cd /etc/systemd/system
+deactive
+deactivate
+sudo ln -s /home/ubuntu/docker/notice-app.service 
+sudo systemctl enable notice-app.service
+sudo systemctl start notice-app.service
+sudo systemctl status notice-app.service
+cd
+cd /etc/nginx/sites-available/
+ls
+sudo nano notice.ideatesystems.com
+docker ps
+cd ../sites-enabled/
+sudo ln -s /etc/nginx/sites-available/notice.ideatesystems.com 
+sudo nginx -t
+sudo systemctl restart nginx.service 
+cd
+wget http://localhost:8000
+docker ps
+docker exec -it django-notice-app /bin/bash
+docker exec -it 7e2458ef44dc /bin/bash
+nano notice/notice/settings.py 
+cd notice/
+ls
+docker build -t django-notice-app .
+docker images
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+docker build -t django-notice-app .
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+docker images
+docker build -t django-notice-app .
+docker images
+docker ps
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker container logs -f docker_django-app_1 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+ls
+docker exec -it 7e2458ef44dc /bin/bash
+docker ps
+docker exec -it 01639e5eea1b /bin/bash
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+sudo nano /etc/nginx/sites-available/notice.ideatesystems.com 
+sudo nginx -t
+sudo systemctl restart nginx.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker build -t django-notice-app .
+cat Dockerfile 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+cd
+cd docker/
+ls
+nano notice-app.yml 
+ls
+cd staticfiles/
+ls
+cd admin/
+ls
+cd ..
+ls
+cd ..
+cd staticfiles/admin/css/
+ls
+cd
+nano docker/notice-app.yml 
+sudo systemctl restart nginx.service 
+docker container logs -f docker_django-app_1 
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+cd notice/
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo nano /etc/nginx/sites-available/notice.ideatesystems.com 
+sudo systemctl restart nginx.service 
+sudo nano /etc/nginx/sites-available/notice.ideatesystems.com 
+cd
+cd docker/
+ls
+cd
+cd notice/
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart nginx.service 
+sudo systemctl restart notice-app.service 
+sudo nano /etc/nginx/sites-available/notice.ideatesystems.com 
+sudo systemctl restart nginx.service 
+docker container logs -f docker_django-app_1 
+sudo tail -f /var/log/nginx/error.log 
+cd
+cd docker/
+ls
+ll
+sudo chown -Rf $USER:$USER staticfiles/
+ll
+cd staticfiles/
+ll
+cd
+sudo systemctl restart nginx.service 
+sudo systemctl restart notice-app.service 
+sudo tail -f /var/log/nginx/error.log 
+date
+cd docker/staticfiles/
+ll
+cd assets/
+ls
+cd
+cd docker/
+chmod -Rf 777 staticfiles/
+sudo systemctl restart notice-app.service 
+sudo systemctl restart nginx.service 
+sudo tail -f /var/log/nginx/error.log 
+sudo init 6
+sudo tail -f /var/log/nginx/error.log 
+nano docker/notice-app.yml 
+sudo systemctl restart notice-app.service 
+sudo tail -f /var/log/nginx/error.log 
+ls -l /home/ubuntu/docker/staticfiles/assets/css/
+nano notice/Dockerfile 
+cd notice/
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo systemctl restart nginx.service 
+docker container logs -f docker_django-app_1 
+docker ps
+cd notice/
+ls
+nano Dockerfile 
+docker images
+docker system prune
+docker images
+docker build -t django-notice-app .
+cat Dockerfile 
+nano Dockerfile 
+docker build -t django-notice-app .
+docker images
+sudo systemctl restart notice-app.service 
+sudo systemctl daemon-reload
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f docker_django-app_1
+sudo tail -f /var/log/nginx/error.log 
+date
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo tail -f /var/log/nginx/error.log 
+cd
+nano docker/notice-app.yml 
+sudo systemctl restart notice-app.service 
+sudo tail -f /var/log/nginx/error.log 
+date
+sudo tail -f /var/log/nginx/error.log 
+cd docker/
+ls
+rm -rf staticfiles/
+sudo systemctl restart notice-app.service 
+ls
+sudo tail -f /var/log/nginx/error.log 
+docker ps
+docker exec -it docker_django-app_1 /bin/bash
+cd
+cd docker/
+ls
+nano notice-app.yml 
+docker build -t django-notice-app .
+cd
+cd notice/
+docker build -t django-notice-app .
+cd
+cd docker/
+ls
+nano notice-app.l
+nano notice-app.yml 
+cd
+cd notice/
+ls
+source venv/bin/activate
+python manage.py collectstatic --noinput
+ls
+cd staticfiles/
+ls
+cd admin/
+ls
+cd
+cd notice/
+deactivate
+cd notice.bkp/
+ls
+cat Dockerfile 
+docker ps
+sudo systemctl stop nginx.service 
+
+sudo systemctl start nginx.service 
+sudo systemctl stop notice-app.service 
+docker ps
+cd docker/
+ls
+cd
+cd notice/
+source venv/bin/activate
+python3 manage.py runserver 0.0.0.0:8000
+ls
+cd static
+;s
+ls
+cd assets/
+ls
+cd ..
+ll
+cd ..
+ll
+sudo nano /etc/nginx/sites-available/notice.ideatesystems.com 
+sudo systemctl restart nginx.service 
+python3 manage.py runserver 0.0.0.0:8000
+ll
+chmod -R 775 static
+chmod -R 775 static/
+python3 manage.py runserver 0.0.0.0:8000
+cd
+deactivate
+mv notice notice.bkp
+git clone git@github.com:OmkarMankar09/notice.git
+ls
+cd notice
+ls
+ll
+source venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt 
+python3 manage.py runserver 0.0.0.0:8000
+python3 manage.py makemigrations
+nano notice/settings.py 
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver 0.0.0.0:8000
+nano notice/settings.py 
+python3 manage.py runserver 0.0.0.0:8000
+nano Dockerfile
+docker build -t django-notice-app .
+docker images
+sudo systemctl start notice-app.service 
+docker ps
+docker container logs -f docker_django-app_1 
+ll
+cat Dockerfile 
+nano Dockerfile 
+docker build -t django-notice-app .
+docker container logs -f docker_django-app_1 
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker container logs -f docker_django-app_1 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+ls
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f docker_django-app_1 
+nano Dockerfile 
+docker run -d -p 8000:8000 django-notice-app python3 manage.py runserver 0.0.0.0:8000
+sudo systemctl stop notice-app.service 
+docker run -d -p 8000:8000 django-notice-app python3 manage.py runserver 0.0.0.0:8000
+docker ps
+nano run.sh
+nano Dockerfile 
+chmod +x run.sh
+sudo systemctl stop docker.service 
+docker ps
+sudo systemctl start docker.service 
+docker ps
+docker build -t django-notice-app .
+sudo systemctl start notice-app.service 
+docker ps
+sudo systemctl stop notice-app.service 
+cd
+cd docker/
+nano notice-app.yml 
+sudo systemctl start notice-app.service 
+docker ps
+sudo systemctl stop nginx.service 
+cd /etc/nginx/sites-available/
+sudo nano notice.ideatesystems.com 
+sudo systemctl stop nginx.service 
+sudo apt install certbot
+sudo certbot certonly --standalone -d notice.ideatesystems.com
+sudo nginx -t
+sudo systemctl start nginx.service 
+cd notice
+nano notice/settings.py 
+cd  o
+cd notice
+nano notice/settings.py 
+sudo systemctl restart notice-app.service 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo mysql -u root -p
+cd No
+cd notice
+cd
+ls
+cat docker.sh 
+cd notice
+ls
+nano Dockerfile 
+nano run.sh 
+nano Dockerfile 
+cd /etc/nginx/sites-
+cd /etc/nginx/sites-available/
+ls
+nano notice.ideatesystems.com 
+cd
+cd notice
+docker bcduild -t django-notice-app .
+cd
+cd docker/
+ls
+cat notice-app.
+cat notice-app.yml 
+cat notice-app.service 
+ls
+rm -rf docker
+rm -rf index.html 
+ls
+rm -rf notice.bkp/
+ls
+free -m
+docker stats
+cd notice
+ls
+nano Dockerfile 
+docker build -t django-notice-app .
+cat Dockerfile 
+nano Dockerfile 
+docker build -t django-notice-app .
+nano notice/settings.py 
+sudo mysql -u root -p
+docker build -t django-notice-app .
+nano Dockerfile 
+nano run.sh 
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo mysql -u root -p
+nano Dockerfile 
+nano run.sh 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+nano run.sh 
+nano Dockerfile 
+cat run.sh 
+sudo systemctl restart notice-app.service 
+nano run.sh 
+docker build -t django-notice-app .
+nano Dockerfile 
+nano r
+nano run.sh 
+nano Dockerfile 
+docker build -t django-notice-app .
+nano run.sh 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+nano run.sh 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+nano run.sh 
+sudo mysql -u root -p
+docker ps
+cd notice/
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo systemctl daemon-reload
+sudo systemctl restart notice-app.service 
+cd
+cd do
+ls
+history
+cat /etc/systemd/system
+cat /etc/systemd/system/notice-app.service 
+cd /etc/systemd/system
+ls
+cat notice-app.service 
+nano notice-app.service 
+cd
+mkdor docker
+rm -rf docker.sh 
+mkdir docker
+cd docker/
+ls
+nano notice-app.yml
+nano notice-app.service
+cd /etc/systemd/system
+sudo rm -rf notice-app.service 
+sudo ln -s /home/ubuntu/docker/notice-app.service 
+sudo systemctl enable notice-app.service
+sudo systemctl start notice-app.service
+docker ps
+docker images
+docker system prune
+clear
+docker ps
+docker container logs -f notice-app 
+cd
+cd notice/
+ls
+nano r
+nano run.sh 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+docker exec -it notice-app /bin/bash
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.6/wkhtmltopdf_0.12.6-1.bionic_amd64.deb
+wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.bullseye_amd64.deb
+ls
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+rm -rf wkhtmltox_0.12.6.1-2.bullseye_amd64.deb 
+nano Dockerfile 
+cat Dockerfile 
+nano Dockerfile 
+docker build -t django-notice-app .
+docker container logs -f notice-app 
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo apt install wkhtmltopdf
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker exec -it notice-app /bin/bash
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+docker ps
+docker container logs -f notice-app 
+docker ps
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f notice-app 
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+nano Dockerfile 
+nano notice/settings.py 
+docker exec -it notice-app /bin/bash
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd
+cd docker/
+ls
+cat notice-app.service 
+docker compose -f /home/ubuntu/docker/notice-app.yml --compatibility up
+docker ps
+sudo systemctl restart notice-app.service 
+docker ps
+cd notice/
+ls
+cd noticeTemplate/
+ls
+nano admin.py 
+nano views.py 
+cd ..
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ls
+nano campaignMgmt/
+cd campaignMgmt/
+ls
+nano views.py 
+mkdir test
+cp notice test/
+cp -r notice test/
+ls
+cd notice
+ls
+cd notice
+nano settings.py
+docker build -t django-notice-app .
+cd ..
+docker build -t django-notice-app .
+nano Docker
+cd ..
+ls
+cd notice
+ls
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+ls
+cd notice
+nano settings.py 
+docker build -t django-notice-app .
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+cd notice 
+nano settings.py 
+cd ..
+ls
+cd noticeTemplate/
+LS
+ls
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ld
+ls
+cd notice/
+ls
+cat Dockerfile 
+cat run.sh 
+cd
+cd docker/
+ls
+cat notice-app.yml 
+ls
+cd notice
+cd  ..
+cat workRequiement.txt 
+nano workRequiement.txt 
+cat workRequiement.txt 
+ls
+cd noticeTemplate/
+ls
+cat views.py 
+cd notice
+cd campaignMgmt/
+ls
+nano views.py 
+cd notice/
+ls
+docker build -t django-notice-app .
+ls
+df -h
+docker system prune
+df -h
+docker build -t django-notice-app .
+docker system prune
+docker ps
+cd notice
+cd campaignMgmt/
+nano views.py 
+docker build -t django-notice-app .
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+nano campaignMgmt/
+cd campaignMgmt/
+nano views.py 
+clear
+cd notice
+cd campaignMgmt/
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+docker container logs -f notice-app 
+docker build -t django-notice-app .
+cd notice
+docker build -t django-notice-app .
+ls
+nano Dockerfile 
+cd notice/
+ls
+cd noticeDetails/
+ls
+cd ..
+cd campaignMgmt/
+ls
+cd ../template/
+ls
+cd noticetemplate/
+ls
+cd ..
+ls
+cd campaign/
+ls
+cd ..
+ls
+cd ..
+ls
+cd noticeTemplate/
+ls
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker build -t django-notice-app .
+docker images
+df -h
+docker build -t django-notice-app .
+docker system prune
+docker build -t django-notice-app .
+sudo systemctl stop notice-app.service 
+docker images
+docker rmi -f 2be28d04a7b8
+docker build -t django-notice-app .
+docker ps
+sudo systemctl restart notice-app.service 
+docker images
+docker ps
+nano Dockerfile 
+ls
+ll
+docker build -t django-notice-app .
+docker build --no-cache -t django-notice-app .
+docker ps
+sudo systemctl restart notice-app.service 
+cd /etc/nginx/sites-available/
+ls
+cp -r notice.ideatesystems.com notice.advnitinm.com
+sudo cp -r notice.ideatesystems.com notice.advnitinm.com
+nano notice.advnitinm.com 
+sudo nano notice.advnitinm.com 
+cd ../sites-enabled/
+sudo ln -s /etc/nginx/sites-available/notice.advnitinm.com 
+sudo nginx -t
+sudo systemctl stop nginx.service 
+sudo certbot certonly --standalone -d notice.advnitinm.com
+sudo systemctl start nginx.service 
+sudo nginx -t
+cd
+docker ps
+docker container logs -f notice-app 
+cd notice/
+ls
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+nano notice
+cd notice
+ls
+nano settings.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+docker container logs -f notice-app 
+nano notice/settings.py 
+sudo systemctl restart nginx
+docker images
+cd notice/
+nano notice/settings.py 
+ls
+cd template/
+ls
+cd campaign/
+ls
+cd ../..
+ls
+cd template/campaign/
+ls
+nano campaignView.html 
+docker exec -it notice-app /bin/bash
+nano campaignView.html 
+cd ..
+ls
+cd ..
+ls
+cd campaignMgmt/
+ls
+nano views.py
+cd ..
+ls
+cd noticeTemplate/
+ls
+nano views.py 
+cd ..
+cd campaignMgmt/
+ls
+nano views.py
+cat views.py
+nano views.py
+cd notice/
+ls
+campaignMgmt/
+cd notice/
+nano campaignMgmt/views.py
+ls
+cd noticeTemplate/
+ls
+nano views.py 
+cd
+ls
+cd notice
+ls
+cd notice
+ls
+cat settings.py 
+docker build -t django-notice-app .
+
+docker build -t django-notice-app .
+ls
+cd docker
+docker build -t django-notice-app .
+cd notice 
+cd ..
+cd notice 
+docker build -t django-notice-app .
+sudo systemctl restart nginx
+sudo systemctl restart notice-app.service 
+sudo systemctl daemon-reload
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+ls
+cat views.py
+cd ..
+cd..
+cd ..
+ls
+cd docker
+ls
+cd ..
+cd notice
+ls
+cat Dockerfile 
+cd dashboard/
+cd ..
+sudo apt update
+sudo apt install rsync
+rsync --version
+rsync -avz -e "ssh -i C:/Users/Admin/Downloads/django.pem" D:/django/notice/template/dashboard/index.html ubuntu@13.202.156.219:~/notice/dashboard/
+cd notice
+cd barcodemgmt/
+nano views.py 
+cd ..
+cd template/
+cd barcode/
+nano barcode.html 
+> barcode.html 
+cat barcode.html 
+nano barcode.html 
+
+docker build -t django-notice-app .
+cd notice
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd barcodemgmt/
+cat models.py 
+nano models.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ls
+cat Dockerfile 
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+cd campaignMgmt/
+cat models.py 
+nano models.py 
+df -h
+docker system prune -y
+docker system prune
+df -h
+cd no
+cd notice/
+docker build -t django-notice-app .
+ls
+nano run.sh 
+nano Dockerfile 
+docker ps
+sudo systemctl stop notice-app.service 
+docker images
+docker rmi -f 962e70e0f215
+docker build -t django-notice-app .
+ls
+nano notice
+cd notice
+ls
+nano settings.py 
+sudo systemctl status mysql.service 
+history
+sudo systemctl restart mysql.service 
+docker build -t django-notice-app .
+cd ..
+docker build -t django-notice-app .
+ls
+nano manage.py 
+nano Dockerfile 
+docker build -t django-notice-app .
+cd notice/
+cd
+sudo mysql -u root -p
+cd notice/
+docker build -t django-notice-app .
+cd notice/
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice/
+ls
+cd notice
+ls
+cat settings.py 
+sudo mysql -u root -p
+cd notice
+cd campaignMgmt/
+cat views.py
+> views.py
+cat views.py
+nano views.py
+cd ..
+cd template/
+cd campaign/
+cat campaign.html
+> campaign.html
+cat campaign.html
+nano campaign.html
+> campaignView.html 
+cat campaignView.html 
+nano campaignView.html 
+cd ..
+docker build -t django-notice-app .
+cat Dockerfile 
+cat requirements.txt 
+> requirements.txt 
+cat requirements.txt 
+
+docker build -t django-notice-app .
+> requirements.txt 
+
+cd campaignMgmt/
+cat views.py
+> views.py
+nano views.py
+cd ..
+docker build -t django-notice-app .
+cd campaignMgmt/
+cat models.py 
+cd ..
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+cat models.py 
+cat migrations/
+cd migrations/
+ls
+mkdir
+cat 0009_campaign_lot_no.py 
+cd ..
+python3 manage.py dbshell
+cat Dockerfile 
+cd campaignMgmt/
+cd migrations/
+ls
+cd ..
+ls 
+cd notice 
+docker ps
+cat Dockerfile 
+docker exec -it 49896fdb9372 /bin/bash
+nano Dockerfile 
+docker build -t django-notice-app .
+ls
+docker exec -it 49896fdb9372 /bin/bash
+ls
+cd notice
+cd notice
+cd noticeTemplate/
+cat views.py 
+> views.py 
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+ls
+cat debug.log
+cat debug.log 
+cd campaignMgmt/
+nano views.py
+cd ..
+cd notice
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py
+cd notice
+cd template/
+cd campaign/
+cd notice 
+cd template/
+cd campaign/
+cat campaignView.html 
+> campaignView.html 
+nano campaignView.html 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd noticce
+cd notice/
+cd noticeDetails/
+ls
+cat views.py 
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+cd campaignMgmt/
+cat views.py
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+sudo systemctl restart notice-app.service 
+cd notice
+cd campaignMgmt/
+nano models.py 
+nano models.py cd ..
+nano models.py
+cd ..
+docker build -t django-notice-app .
+cd notice
+cd campaignMgmt/
+nano models.py 
+nano migrations/
+cd migrations/
+ls
+cd notice
+cd campaignMgmt/
+nano views.py
+cd ..
+cd notice
+nano settings.py 
+cd ..
+docker build -t django-notice-app .
+cd campaignMgmt/
+nano models.py 
+cd ..
+cd notice
+sudo systemctl restart notice-app.service 
+cd notice/
+ls
+cat debug.log 
+cd notice
+cd campaignMgmt/
+nano views.py
+cd notice
+cd campaignMgmt/
+nano views.py
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+ls
+cat requirements.txt 
+ls
+rm -rf test/
+df -h
+docker system prune
+df -h
+cp -r notice notice2
+ls
+du -sh *
+cd notice
+ls
+cd
+cd notice
+ls
+cd
+git clone git@github.com:OmkarMankar09/notice.git
+rm -rf notice
+git clone git@github.com:OmkarMankar09/notice.git
+cp -r notice2/Dockerfile notice/
+cp -r notice2/run.sh notice/
+cd notice
+ls
+nano Dockerfile 
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+sudo systemctl daemon-reload
+sudo systemctl restart notice-app.service 
+docker ps
+ls
+cd /var/log/nginx/
+ls
+tail -f error.log
+cd
+wget http
+wget http://localhost:8080
+ls
+docker ps
+cd docker/
+ls
+cat notice-app.yml 
+cd
+ls
+cd notice
+ls
+docker container logs -f notice-app 
+ls
+cd sett
+ls
+cd notice/
+ls
+nano settings.py 
+cd
+cat notice2/notice/settings.py 
+cd notice
+ls
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker images
+docker rmi -f 181c723b27eb 75543f937272
+df -h
+cd notice
+ls
+cd
+cat notice2/notice/settings.py 
+nano notice/notice/settings.py 
+docker build -t django-notice-app .
+cd notice
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker container logs -f notice-app 
+ls
+cd dashboard/
+ks
+ls
+nano models.py 
+cd ..
+ls
+cd userAuth/
+ls
+nano models.py 
+vi models.py 
+docker container logs -f notice-app 
+cd
+sudo mysql -u root -p
+mysqldump -h localhost -u notice2 -d notice > notice.sql
+mysqldump -h localhost -u notice2 -p -d notice > notice.sql
+du -sh *
+cat notice.sql 
+cd notice
+nano Dockerfile 
+cd notice
+docker build -t django-notice-app .
+nano Dockerfile 
+docker build -t django-notice-app .
+cat notice/notice/settings.py 
+cd db
+ls
+mysqldump -h localhost -u notice2 -p -d notice > notice_20241204.sql
+mysql -u notice2 -p
+mysql -u root -p
+sudo mysql -u root -p
+sudo cat /var/log/mysql/error.log
+sudo mysql -u root -p
+mysql -u notice2 -p
+mysqldump -h localhost -u notice2 -p -d notice > notice_20241204.sql
+du -sh *
+cat notice_20241204.sql 
+mysql -u notice2 -p
+cd notice
+docker build -t django-notice-app .
+mysql -u notice2 -p
+nano notice/settings.py 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ls
+scp -r -i C:/Users/Admin/Downloads/django.pem ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads
+scp -r -i C:/Users/Admin/Downloads/django.pem ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads/
+scp -r -i "C:/Users/Admin/Downloads/django.pem" ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads/
+scp -r -i C:/Users/Admin/Downloads/django.pem ubuntu@13.202.156.219:/home/ubuntu/notice_2024124.sql C:/Users/Admin/Downloads/
+chmod 400 C:/Users/Admin/Downloads/django.pem
+ls
+ls
+scp -r -i "C:/Users/Admin/Downloads/django.pem" ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads/
+scp -r -i "C:/Users/Admin/Downloads/django.pem" ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql Downloads/
+ls
+scp -r -i "C:/Users/Admin/Downloads/django.pem" ubuntu@13.202.156.219:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads/
+scp -i "C:/Users/Admin/Downloads/django.pem" ubuntu@172.31.17.230:/home/ubuntu/notice_20241204.sql C:/Users/Admin/Downloads/
+cd
+ls
+rm -rf notice2
+ls
+mv notice notice2
+ls
+git clone git@github.com:OmkarMankar09/notice.git
+cd notice2
+cd ..
+cd notice2/
+cp -r Dockerfile /home/ubuntu/notice/
+cd ..
+cd notice2/
+cp -r run.sh /home/ubuntu/notice/
+cp -r notice/settings.py /home/ubuntu/notice/notice/
+cd ..
+cd notice
+ls
+df -h
+sudo systemctl restart notice-app.service 
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ls
+cd notice
+ls
+cat debug.log 
+ls
+cd notice
+cd campaignMgmt/
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+docker ps
+df -h
+cd notice
+ls
+cd campaignMgmt/
+nano views.py 
+
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd campaignMgmt/
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+cd notice
+cd campaignMgmt/
+nano views.py 
+cd ..
+docker build -t django-notice-app .
+sudo systemctl restart notice-app.service 
+ls
+vim docker
+ls
+cd docker/
+ls
+cat notice-app.
+vim notice-app.yml 
+ls
+su root
+mkdir admin-intern 
+ls
+cd admin-intern/
+ls
+touch pem.sh
+vim pem.sh 
+chmod +x pem.sh 
+ll
+bash pem.sh 
+[200~aws --version
+aws --version
+ls
+ls notice
+ls docker/
+docker ps
+ls
+ls notice
+ls docker/
+cd notice
+ls
+cat deploy-exclude-config.txt 
+vim Dockerfile 
+ls
+ls notice2
+ls notice
+cd notice
+ls
+cd ..
+cd notice2
+ls
+cd ..
+ls
+ls docker/
+cd docker/
+cat notice-app.yml 
+cat notice-app.service 
+cd ..
+ls
+cat notice.sql 
+ls
+cd notice
+ls
+ls dashboard/
+cat admin.py 
+cat apps.py
+cd dashboard/
+cat admin.py 
+cat apps.py 
+cd ..
+ls
+ll
+cd 
+ls
+cd admin-intern/
+ls
+ll
+vim pem.sh 
+chmod 000 pem.sh 
+ll
+cat pem.sh 
+chmod 421 pem.sh 
+ll
+ls
+cd 
+ls
+rm -rfv admin-intern/
+ls
+history
+docker images
+docker ps
+ls
+history
+ls
+cat /.bash_history all_history.txt
+cat .bash_history all_history.txt
+cat .zsh_history all_history.txt
+cat .bash_history
